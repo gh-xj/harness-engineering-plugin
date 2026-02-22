@@ -1,0 +1,6 @@
+{
+  "profile": "superpowers-compatible",
+  "canonical_command": "task ci",
+  "artifact_path": "artifacts/harness/smoke.json",
+  "strictness": "minimal"
+}
